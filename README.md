@@ -17,4 +17,8 @@ Picasso.get().load(movies.getMovieImages()).placeholder(R.mipmap.ic_launcher)
 
 ```
 
+### Screen Short 
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/apptech44/picasso-library-app/blob/master/piccose-library.png" width="200" height="400" />
+
 ## Work Done!
